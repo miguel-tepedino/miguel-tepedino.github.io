@@ -1,2 +1,2 @@
 # miguel-tepedino.github.io
-My Portafolio
+Miguel Tepedino Portafolio
